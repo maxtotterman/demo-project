@@ -1,0 +1,7 @@
+- As of this simple solution, a user is 1-1 with a company, could split into a m2m table instead.
+- Strucuted responses back to clients, like JSON API or similar.
+- Build with Docker
+- For testing locally, maybe some migrations and db seeds.
+- Proper usage of pagination
+- Rate limiting
+- Implement AuthZ
